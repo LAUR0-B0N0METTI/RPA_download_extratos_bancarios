@@ -65,6 +65,7 @@ O script pode ser personalizado para atender às necessidades específicas do us
 - Adaptação para diferentes sites bancários, se necessário.
 <br>
 <br>
+
 ### Autor
 
 [ Lauro Bonometti ]
