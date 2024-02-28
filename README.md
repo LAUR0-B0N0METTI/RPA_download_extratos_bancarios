@@ -4,7 +4,7 @@ Esta automação em Python foi desenvolvida para automatizar o processo de extra
 
 ### Objetivo
 
-O objetivo principal deste script é simplificar a tarefa de baixar extratos bancários do Itaú, automatizando as interações necessárias através do navegador Google Chrome. O script realiza ações como login, seleção de contas, e download de extratos, tornando o processo mais eficiente.
+O objetivo principal deste script é simplificar a tarefa de baixar extratos bancários do Itaú num total de "X" contas dispostas em um documento excel, automatizando as interações necessárias através do navegador Google Chrome. O script realiza ações como login, seleção de contas, download de extratos e salvando em local específico, tornando o processo mais ágil e eficiente.
 
 ### Pré-requisitos
 
@@ -66,7 +66,7 @@ O script pode ser personalizado para atender às necessidades específicas do us
 
 ### Autor
 
-- [ Lauro Bonometti ]
+[ Lauro Bonometti ]
 
 ### Licença
 
