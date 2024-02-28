@@ -48,7 +48,7 @@ Siga os passos abaixo para executar o script:
 
 ### Colaborador
 
-- Richard Arias: Contribuições significativas na melhoria do código e otimização de interações.
+Richard Arias: Contribuições significativas na melhoria do código e otimização de interações.
 
 ### Aviso Importante
 
@@ -63,10 +63,13 @@ O script pode ser personalizado para atender às necessidades específicas do us
 - Atualização do local do arquivo Excel contendo as contas bancárias (`'base.xlsx'`).
 - Ajustes nos caminhos de salvamento dos extratos.
 - Adaptação para diferentes sites bancários, se necessário.
-
+<br>
+<br>
 ### Autor
 
 [ Lauro Bonometti ]
+<br>
+<br>
 
 ### Licença
 
